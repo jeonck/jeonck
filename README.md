@@ -31,7 +31,7 @@ Welcome to my page👋, I'm CK.
 - Project Management : LBs, IoT, Metaverse 
 - Sytem Impelmentation with AKS : [iflandstudio](https://www.studio.ifland.io)
 
-⚡ Community Activities  
+## ⚡ Community Activities  
 - [DEVOCEAN](https://devocean.sk.com/) Master  
   
 ## 📫 Contacts   
