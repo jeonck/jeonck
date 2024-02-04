@@ -28,7 +28,8 @@ Hi 👋, I'm CK.
   Image-Generating, Stagble Diffusion  
 
 🔭 Careers    
-- Service Launching : ifland studio, Baro Roaming, Short Message Service  
+- Service Launching : ifland studio, Baro Roaming, Short Message Service
+- Project Management : LBs, IoT, Metaverse 
 - Sytem Impelmentation with AKS : [iflandstudio](https://www.studio.ifland.io)
 
 ⚡ Community Activities  
