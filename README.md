@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Hi 👋, I'm CK.   
+
 🌱 Interests  
 - K8s  
   - System Implementation, AKS usecase  
@@ -28,7 +29,8 @@ Hi 👋, I'm CK.
 
 🔭 Careers    
 - Service Launching : ifland studio, Baro Roaming, Short Message Service  
-- Sytem Impelmentation with AKS : [iflandstudio](https://www.studio.ifland.io)  
+- Sytem Impelmentation with AKS : [iflandstudio](https://www.studio.ifland.io)
+
 ⚡ Community Activities  
 - [DEVOCEAN](https://devocean.sk.com/) Master  
   
