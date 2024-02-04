@@ -15,23 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi 👋, I'm CK. 
-🌱 Interests
-- K8s
-  - System Implementation, AKS usecase
-- Web Service
-  - Frontend, Backend
-- Artificial Intelligence
-  - LLM, GPTs, Open AI API
-- Imaging
-  Image-Generating, Stagble Diffusion
+Hi 👋, I'm CK.   
+🌱 Interests  
+- K8s  
+  - System Implementation, AKS usecase  
+- Web Service  
+  - Frontend, Backend  
+- Artificial Intelligence  
+  - LLM, GPTs, Open AI API  
+- Imaging  
+  Image-Generating, Stagble Diffusion  
 
-🔭 Careers
-- Service Launching : ifland studio, Baro Roaming, Short Message Service
-- Sytem Impelmentation with AKS : [iflandstudio](https://www.studio.ifland.io)
-⚡ Community Activities
-- [DEVOCEAN](https://devocean.sk.com/) Master
+🔭 Careers    
+- Service Launching : ifland studio, Baro Roaming, Short Message Service  
+- Sytem Impelmentation with AKS : [iflandstudio](https://www.studio.ifland.io)  
+⚡ Community Activities  
+- [DEVOCEAN](https://devocean.sk.com/) Master  
   
-📫 Contacts
-- [LinkedIn](https://www.linkedin.com/in/metacog/)
+📫 Contacts   
+- [LinkedIn](https://www.linkedin.com/in/metacog/)  
 
