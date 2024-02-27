@@ -29,7 +29,7 @@ Welcome to my page👋, I'm CK.
 ## 🔭 Careers    
 - Service Launching : ifland studio, Baro Roaming, Short Message Service
 - Project Management : LBs, IoT, Metaverse 
-- Sytem Impelmentation with AKS : [iflandstudio](https://www.studio.ifland.io)
+- Platform Engineering with AKS : [iflandstudio](https://www.studio.ifland.io)
 
 ## ⚡ Community Activities  
 - [DEVOCEAN](https://devocean.sk.com/) Master  
