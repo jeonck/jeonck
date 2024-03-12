@@ -24,7 +24,7 @@ Welcome to my page👋, I'm CK.
 - Artificial Intelligence  
   - LLM, GPTs, Open AI API  
 - Imaging  
-  Image-Generating, Stagble Diffusion  
+  Image-Generating, Stable Diffusion  
 
 ## 🔭 Careers    
 - Service Launching : ifland studio, Baro Roaming, Short Message Service
