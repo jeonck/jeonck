@@ -28,8 +28,17 @@ Welcome to my page👋, I'm CK.
 
 ## 🔭 Careers    
 - Service Launching : ifland studio, Baro Roaming, Short Message Service
-- Project Management : LBS, IoT, Metaverse, Person AI Platform 
-- Platform Engineering : [iflandstudio](https://www.studio.ifland.io), AKS, GitLab, ArgoCD,
+- Project Management : LBS, IoT, Metaverse, Person AI Platform
+  - Confluence, Jira, Slack 
+- Platform Engineering :
+  - [iflandstudio](https://www.studio.ifland.io) AKS
+  - GitLab, ArgoCD
+  - mysql, redis, posgresql
+  - opensearch, qdrant
+  - langflow, langfuse
+- Development
+  - Python Frontend(streamlit), Python Backend(FastAPI), MVC
+  - Svelte  
 
 ## ⚡ Community Activities  
 - [DEVOCEAN](https://devocean.sk.com/) Master  
