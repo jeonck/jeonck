@@ -28,7 +28,7 @@ Welcome to my page👋, I'm CK.
 
 ## 🔭 Careers    
 - Service Launching : ifland studio, Baro Roaming, Short Message Service
-- Project Management : LBS, IoT, Metaverse 
+- Project Management : LBS, IoT, Metaverse, Person AI Platform 
 - Platform Engineering : [iflandstudio](https://www.studio.ifland.io), AKS, GitLab, ArgoCD,
 
 ## ⚡ Community Activities  
