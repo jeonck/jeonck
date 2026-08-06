@@ -22,23 +22,23 @@ Welcome to my page👋, I'm CK.
 - Web Service  
   - Frontend, Backend  
 - Artificial Intelligence  
-  - LLM, GPTs, Open AI API  
+  - Agentic AI, Agent AI Security, LLM, GPTs, Open AI API  
 - Imaging  
   Image-Generating, Stable Diffusion  
 
 ## 🔭 Careers    
-- Service Launching : ifland studio, Baro Roaming, Short Message Service
-- Project Management : LBS, IoT, Metaverse, Person AI Platform
+- Project Management : Person AI Platform, Metaverse, LBS, IoT
   - Confluence, Jira, Slack 
-- Platform Engineering :
-  - [iflandstudio](https://www.studio.ifland.io) AKS
-  - GitLab, ArgoCD
-  - mysql, redis, posgresql
-  - opensearch, qdrant
-  - langflow, langfuse
+- Platform Engineering 
+  - Infrastructure : on-premise server, K8s(air-gapped), AKS/Azure, AWS, Terraform
+  - CI/CD automation : GitLab, ArgoCD, Nexus, Gitea, Bitbucket, Github Actions
+  - AI platform : LLM API deployment, Containerized workloads, Jupyter, qdrant, langflow, langfuse 
+  - Data platform : GPU Server, LLM deployment, mysql, redis, posgresql, qdrant, kafka, minIO, pinot, ceph
+  - Observability : opensearch, prometheus, grafana, EFK, Datadog 
 - Development
-  - Python Frontend(streamlit), Python Backend(FastAPI), MVC
-  - Svelte  
+  - Python Frontend(streamlit), Python Backend(FastAPI), Spring boot, MVC
+  - Svelte
+- Service Launching : ifland studio, Baro Roaming, Short Message Service
 
 ## ⚡ Community Activities  
 - [DEVOCEAN](https://devocean.sk.com/) Master  
@@ -47,3 +47,5 @@ Welcome to my page👋, I'm CK.
 - [LinkedIn](https://www.linkedin.com/in/metacog/)  
 
 ## 🔭 My latest posts
+- [Pubic Blog](https://jeonck.github.io/us-start/blog)
+- [Personal Blog](https://insight.metacog.co.kr/)
