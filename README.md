@@ -40,7 +40,7 @@ Welcome to my page👋, I'm CK.
 - Development
   - Python Frontend(streamlit), Python Backend(FastAPI), Spring boot, MVC
   - Svelte
-- Service Launching : ifland studio, Baro Roaming, Short Message Service
+- Service Launching : Metaverse(ifland studio), International Roaming(Baro Roaming), Short Message Service
 
 ## ⚡ Community Activities  
 - [DEVOCEAN](https://devocean.sk.com/) Master  
