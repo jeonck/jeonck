@@ -33,7 +33,7 @@ Welcome to my page👋, I'm CK.
 - Platform Engineering
   - System Implementation(K8s) : Digital twin data platform, Persona AI platform, Metaverse Platform
   - Infrastructure : on-premise server, K8s(air-gapped), AKS/Azure, AWS, Terraform
-  - CI/CD automation : GitLab, ArgoCD, Nexus, Gitea, Bitbucket, Github Actions
+  - CI/CD automation : GitLab, ArgoCD, Nexus, Gitea, Bitbucket, Github Actions, Jenkins
   - AI platform : LLM API deployment, Containerized workloads, Jupyter, qdrant, langflow, langfuse 
   - Data platform : GPU Server, LLM deployment, mysql, redis, posgresql, qdrant, kafka, minIO, pinot, ceph
   - Observability : opensearch, prometheus, grafana, EFK, Datadog 
