@@ -25,7 +25,7 @@ Welcome to my page👋, I'm CK.
   - Agentic AI, Agent AI Security, LLM, GPTs, Open AI API
   - AI using know-how & Productivity : [SKILL](https://skill.metacog.co.kr/)
   - Video Generation  
-    - Programmatic video generation using Remotion(https://skill.metacog.co.kr/s/code-explainer-video/)  
+    - [Programmatic video generation using Remotion](https://skill.metacog.co.kr/s/code-explainer-video/)  
 
 ## 🔭 Careers    
 - Project Management : Metaverse, Endpoint Security Platform, LBS, IoT
