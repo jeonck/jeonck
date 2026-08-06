@@ -22,9 +22,10 @@ Welcome to my page👋, I'm CK.
 - Web Service  
   - Frontend, Backend  
 - Artificial Intelligence  
-  - Agentic AI, Agent AI Security, LLM, GPTs, Open AI API  
-- Imaging  
-  Image-Generating, Stable Diffusion  
+  - Agentic AI, Agent AI Security, LLM, GPTs, Open AI API
+  - [SKILL](https://skill.metacog.co.kr/)
+- Video Generation  
+  - Programmatic video generation using Remotion  
 
 ## 🔭 Careers    
 - Project Management : Person AI Platform, Metaverse, LBS, IoT
