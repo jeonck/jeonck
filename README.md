@@ -28,9 +28,10 @@ Welcome to my page👋, I'm CK.
     - Programmatic video generation using Remotion  
 
 ## 🔭 Careers    
-- Project Management : Person AI Platform, Metaverse, LBS, IoT
+- Project Management : Metaverse, Endpoint Security Platform, LBS, IoT
   - Confluence, Jira, Slack 
-- Platform Engineering 
+- Platform Engineering
+  - System Implementation(K8s) : Digital twin data platform, Persona AI platform, Metaverse Platform
   - Infrastructure : on-premise server, K8s(air-gapped), AKS/Azure, AWS, Terraform
   - CI/CD automation : GitLab, ArgoCD, Nexus, Gitea, Bitbucket, Github Actions
   - AI platform : LLM API deployment, Containerized workloads, Jupyter, qdrant, langflow, langfuse 
