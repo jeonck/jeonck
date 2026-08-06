@@ -23,9 +23,9 @@ Welcome to my page👋, I'm CK.
   - Frontend, Backend  
 - Artificial Intelligence  
   - Agentic AI, Agent AI Security, LLM, GPTs, Open AI API
-  - [SKILL](https://skill.metacog.co.kr/)
-- Video Generation  
-  - Programmatic video generation using Remotion  
+  - AI using know-how & Productivity : [SKILL](https://skill.metacog.co.kr/)
+  - Video Generation  
+    - Programmatic video generation using Remotion  
 
 ## 🔭 Careers    
 - Project Management : Person AI Platform, Metaverse, LBS, IoT
@@ -48,5 +48,5 @@ Welcome to my page👋, I'm CK.
 - [LinkedIn](https://www.linkedin.com/in/metacog/)  
 
 ## 🔭 My latest posts
-- [Pubic Blog](https://jeonck.github.io/us-start/blog)
+- [Public Blog](https://jeonck.github.io/us-start/blog)
 - [Personal Blog](https://insight.metacog.co.kr/)
