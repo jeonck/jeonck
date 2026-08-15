@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 -->
 
 ## ✨ Hey! Nice to see you.
-Welcome to my page👋, I'm CK.   
+Welcome to my page👋, I'm CK.
+
+### 🌐 Portfolio : **[jeonck.metacog.co.kr](https://jeonck.metacog.co.kr/)**
+Platform engineering and cloud infrastructure, 12+ years across telecom, government, and enterprise.
+Selected work, the platforms I run in public, and a [resume (PDF)](https://jeonck.metacog.co.kr/CK-Jeon-Resume.pdf).
+Based in Austin, TX.
 
 ## 🌱 Interests  
 - K8s  
@@ -42,10 +47,19 @@ Welcome to my page👋, I'm CK.
   - Svelte
 - Service Launching : Metaverse(ifland studio), International Roaming(Baro Roaming), Short Message Service
 
+## 🛠️ Platforms I run in public
+- [DevOps Professional Playbook](https://devops.metacog.co.kr/) : 13-competency evidence framework mapped to DORA metrics
+- [Framework Thinking](https://fw-thinking.metacog.co.kr/) : structured IT knowledge system for practitioners
+- [CuraDevOps](https://curadevops.metacog.co.kr/) / [CuraSec](https://curasec.metacog.co.kr/) : daily DevOps and security intelligence with per-role verdicts
+- [Release Board](https://rel-mgmt.metacog.co.kr/) : Go / NoGo verdicts across tracked DevOps products
+- [Handson](https://handson.metacog.co.kr/) : install manuals, work procedures, troubleshooting guides
+- [Claude Skill Hub](https://skill.metacog.co.kr/) : installable agent skills for site builders, content pipelines, dev tooling
+
 ## ⚡ Community Activities  
 - [DEVOCEAN](https://devocean.sk.com/) Master  
   
 ## 📫 Contacts   
+- [Portfolio](https://jeonck.metacog.co.kr/)  
 - [LinkedIn](https://www.linkedin.com/in/metacog/)  
 
 ## 🔭 My latest posts
