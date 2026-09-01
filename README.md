@@ -58,7 +58,8 @@ Based in Austin, TX.
 
 ## 📜 Credentials & Patents
 - **[Professional Engineer in Information Technology (기술사)](https://encykorea.aks.ac.kr/Article/E0008307)** : Korean national license. Holders are formally commissioned as evaluation committee members on government and public-sector technology projects.
-- AWS Certified Solutions Architect / Senior Information Systems Auditor / CCNP / RHCSA / ISTQB
+- **[Principal Information Systems Auditor (수석감리사)](https://auditor.nia.or.kr/front/main/main.do)** : State-accredited license. Only Principal-level auditors may lead national information system audit programs, a standing conferred by the Professional Engineer license.
+- AWS Certified Solutions Architect / CCNP / RHCSA / ISTQB
 
 Patents (Korea):
 - [KR20230013443A](https://patents.google.com/patent/KR20230013443A/en) : Intelligent Endpoint Security Management (2023)
