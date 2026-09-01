@@ -56,6 +56,16 @@ Based in Austin, TX.
 - [Handson](https://handson.metacog.co.kr/) : install manuals, work procedures, troubleshooting guides
 - [Claude Skill Hub](https://skill.metacog.co.kr/) : installable agent skills for site builders, content pipelines, dev tooling
 
+## 📜 Credentials & Patents
+- **[Professional Engineer in Information Technology (기술사)](https://encykorea.aks.ac.kr/Article/E0008307)** : Korean national license. Holders are formally commissioned as evaluation committee members on government and public-sector technology projects.
+- AWS Certified Solutions Architect / Senior Information Systems Auditor / CCNP / RHCSA / ISTQB
+
+Patents (Korea):
+- [KR20230013443A](https://patents.google.com/patent/KR20230013443A/en) : Intelligent Endpoint Security Management (2023)
+- [KR20230018724A](https://patents.google.com/patent/KR20230018724A/en) : Automated Security Information Categorization (2023)
+- [KR20220035711A](https://patents.google.com/patent/KR20220035711A) : Organizational Chart Automation for Security (2022)
+- [KR101567993B1](https://patents.google.com/patent/KR101567993B1/en) : Application Service Quality Indicator System (2015)
+
 ## ⚡ Community Activities  
 - [DEVOCEAN](https://devocean.sk.com/) Master  
   
