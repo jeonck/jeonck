@@ -21,6 +21,15 @@ Platform engineering and cloud infrastructure, 12+ years across telecom, governm
 Selected work, the platforms I run in public, and a [resume (PDF)](https://jeonck.metacog.co.kr/CK-Jeon-Resume.pdf).
 Based in Austin, TX.
 
+## 📘 Book : [Reliability at Scale](https://www.amazon.com/dp/B0HLBNJM6T)
+**Advanced SRE for Staff Engineers** (2026, 354 pages). Built on questions carried through 16 years of running mission-critical telecom platforms.
+
+Most serious reliability problems do not come from missing tools. They come from broken feedback loops.
+- **Technical loops** grow an outage and hold it in place : retry storms that backoff cannot fix, outages that outlive their trigger.
+- **Organizational loops** make it happen again : error budgets that do not bind, postmortems that close every action item and change nothing.
+
+Fourteen chapters covering blast radius (cells, shuffle sharding), telemetry cost and gray failure, capacity by queueing theory, safe config delivery, incident command, and a side-by-side reading of 16 public postmortems.
+
 ## 🌱 Interests  
 - K8s  
   - System Implementation, AKS usecase  
