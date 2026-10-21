@@ -65,6 +65,18 @@ Fourteen chapters covering blast radius (cells, shuffle sharding), telemetry cos
 - [Handson](https://handson.metacog.co.kr/) : install manuals, work procedures, troubleshooting guides
 - [Claude Skill Hub](https://skill.metacog.co.kr/) : installable agent skills for site builders, content pipelines, dev tooling
 
+## 🧪 Hands-on labs
+Labs I run and write up at [handson.metacog.co.kr](https://handson.metacog.co.kr/), 58 verified since August. The six below ran on real systems, not simulations: a real macOS machine, or real AWS infrastructure built with Terraform. These are lab results, not production claims.
+
+| Lab | Result | Ran on |
+|---|---|---|
+| [Three-node Kubernetes with kubeadm](https://handson.metacog.co.kr/#/note/01-install~onprem-3node-kubeadm-ubuntu) | Three Ready nodes and every pod Running, yet every calico-node sat at 0/1. Two blocked ports were the cause | AWS, built with Terraform ([lab20](https://github.com/jeonck/terraform-aws-lab/tree/main/lab20-onprem-k8s-verify)) |
+| [GitOps delivery, GitLab CI to Argo CD](https://handson.metacog.co.kr/#/note/01-install~gitlab-ci-argocd-fastapi-onprem) | The pipeline holds no kubeconfig, and the deploy check is the running pod's image digest | AWS, built with Terraform ([lab21](https://github.com/jeonck/terraform-aws-lab/tree/main/lab21-gitlab-argocd-verify)) |
+| [Terraform remote state locking](https://handson.metacog.co.kr/#/note/02-runbook~terraform-remote-backend-lock-import) | On S3 the lock is one conditional PUT. Garage ignores it, so `use_lockfile` never refuses anyone | macOS |
+| [SLO burn-rate alerting](https://handson.metacog.co.kr/#/note/01-install~slo-error-budget-burn-rate) | 50% injected errors paged in two minutes, and a healthy service recorded no SLI until `or vector(0)` | macOS |
+| [Container image size](https://handson.metacog.co.kr/#/note/01-install~container-image-size-and-what-breaks) | 1.03 GB down to 8.37 MB (123x), and the smallest image silently lost HTTPS and timezones | macOS |
+| [Proxmox on rented bare metal](https://handson.metacog.co.kr/#/note/01-install~proxmox-on-ec2-bare-metal) | 42 minutes and $0.29, and the snapshot loop reported plausible timings while doing nothing | AWS, built with Terraform |
+
 ## 📜 Credentials & Patents
 - **[Professional Engineer in Information Technology (기술사)](https://encykorea.aks.ac.kr/Article/E0008307)** : Korean national license. Holders are formally commissioned as evaluation committee members on government and public-sector technology projects.
 - **[Principal Information Systems Auditor (수석감리사)](https://auditor.nia.or.kr/front/main/main.do)** : Korean national license. Only Principal-level auditors may lead national information system audit programs, a standing conferred by the Professional Engineer license.
