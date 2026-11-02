@@ -82,11 +82,11 @@ Labs I run and write up at [handson.metacog.co.kr](https://handson.metacog.co.kr
 - **[Principal Information Systems Auditor (수석감리사)](https://auditor.nia.or.kr/front/main/main.do)** : Korean national license. Only Principal-level auditors may lead national information system audit programs, a standing conferred by the Professional Engineer license.
 - AWS Certified Solutions Architect / CCNP / RHCSA / ISTQB
 
-Patents (Korea):
-- [KR20230013443A](https://patents.google.com/patent/KR20230013443A/en) : Intelligent Endpoint Security Management (2023)
-- [KR20230018724A](https://patents.google.com/patent/KR20230018724A/en) : Automated Security Information Categorization (2023)
-- [KR20220035711A](https://patents.google.com/patent/KR20220035711A) : Organizational Chart Automation for Security (2022)
-- [KR101567993B1](https://patents.google.com/patent/KR101567993B1/en) : Application Service Quality Indicator System (2015)
+**10 Korean patents, 7 as sole inventor.** Four selected:
+- [KR20230013443A](https://patents.google.com/patent/KR20230013443A/en) : Intelligent Endpoint Security Management (2023, co-inventor)
+- [KR20230018724A](https://patents.google.com/patent/KR20230018724A/en) : Automated Security Information Categorization (2023, co-inventor)
+- [KR20220035711A](https://patents.google.com/patent/KR20220035711A) : Organizational Chart Automation for Security (2022, co-inventor)
+- [KR101567993B1](https://patents.google.com/patent/KR101567993B1/en) : Application Service Quality Indicator System (2015, sole inventor)
 
 ## ⚡ Community Activities  
 - [DEVOCEAN](https://devocean.sk.com/) Master  
